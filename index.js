@@ -1,18 +1,3 @@
-/*
-		Esse é o código é para Bots de XP, usando uma biblioteca da Firebase,
-	caso você use esse código no seu Bot, você pode usar, mais lembre que esse código é para ajudar 
-	usuários com essa biblioteca.
-		Caso queira entrar em contato com o Autor do código, você pode entrar no meu servidor no Discord, e
-	testar a minha Aplicação no Discord, com o nome Mizuhara um Bot de Diversão, Social, Moderação, Utilidades e NSFW.
-	
-  Autor: Tia#1000
-	Website: https://www.mizuhara.tk/
-	Twitter: @BotMizuhara
-  Meu Servidor: https://discord.gg/QraTZUq
-  
-	Obrigado por ler meu código! <3
-*/
-
 const Discord = require("discord.js"); // Dependência da Discord.js para importação de funções para nossa aplicação
 const firebase = require("firebase"); // Dependência da Firebase para a conecção com o nosso banco de dados
 const client = new Discord.Client(); // Definição do cliente que irá logar com a nossa aplicação
